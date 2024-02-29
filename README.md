@@ -3,7 +3,7 @@
 
 * Create table on Mysql (Example: tablego)
 
-* Create to json files on root project (production.json and development.json), with content:
+* Create two json files on root project (production.json and development.json), with content:
 
 ```json
 {
