@@ -1,3 +1,0 @@
-{
-    "DB_CONF": "root:12345@tcp(localhost:3306)/tablego"
-}
